@@ -1,2 +1,4 @@
-# The-Word-of-Weston
-The wikipedia for nerds.
+# TheWestonFiles
+> The wikipedia for nerds.
+
+Created and maintained by, Weston
