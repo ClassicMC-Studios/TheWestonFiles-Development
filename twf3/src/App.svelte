@@ -110,7 +110,36 @@
     is learning Dutch(Nederlands) in preperation to visit Belgium.
     <br/>
     <br/>
-    Weston begin constructing conlangs in 2021.
+    Weston begin constructing conlangs in 2021. Weston, along with his brother, constructed Kisou 
+    A conlang with english derived grammar and heavy use of loanwords from a collection of sources
+    including, English, French, and Norwegian.
+    <br/>
+    <br/>
+    <em>&emsp;- Phrase in Kisou<br/></em>
+    Ki! Be tu Weston. Be tu gry. Be wer 5 tos mer fom. Mer kes sautee Valom ond Shema. Be wer 
+    1 es er be kah wer veser.Be feair vou ender flacebowl er be kuh feair activitay.  
+    Mer es sautea Dayshel. Be feair mer es. Mer veser sautea Lilly. Lilly feairs vou ender 
+    roquet de.Mer veser kos tosh mteae. <br/>
+    <em>(Names have been modified and are placeholder names)</em>
+    <br/>
+    <br/>
+    Shortly after quitting on Kisou, because his brother had no more interest in helping,
+    Weston moved on too creating a "polymorphic" language with heavy loanwords from Greenlandic.
+    This language was designed in the way that to write a sentance you would combine suffixes and 
+    prefixes. Ex. Jtarluchaa Jt-arlu-chaa = I am bad.
+    <br/>
+    <br/>
+    <em>&emsp; - A phrase in Kuosoian</em><br/>
+    Til-yeccJtquatarpervusilaqjtnaqoschk
+    <br/>
+    <br/>
+    After creating Kuosoian Weston spent time learning Yiddish and eventually decided creating
+    a final conlang. The conlang was called Garlandic and used loanwords from Cornish, English, 
+    and Varmlandic. This conlang remains unfinished currently.
+    <br/>
+    <br/>
+    <em>&emsp; - Phrases in Garlandic</em><br/>
+    Hastum ré a dama iin a man? Ay fursta nisht iin ees furstem nisht! Studéa ú uft Garlandik?
     <br/>
     <h1><src>Sources</src></h1>
   </main>
